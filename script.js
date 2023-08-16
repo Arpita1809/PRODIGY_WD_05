@@ -14,7 +14,6 @@ async function getWeatherByLocation(city){
          const respData = await resp.json();
      
            addWeatherToPage(respData);
-          
      }
 
       function addWeatherToPage(data){
