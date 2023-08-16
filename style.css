@@ -5,7 +5,7 @@
 body {
     margin: 0;
     font-family: "Poppins", sans-serif;
-    background-color: linear-gradiet(300deg, #757b87, #909d9d);
+    background-color: rgb(152, 229, 162);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,9 +16,9 @@ input {
     padding: 1rem;
     border-radius: 25px;
     border: none;
-    background-color: #fff;
+    background-color: #f6af86;
     font-family: inherit;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 10px rgba(18, 16, 16, 0.2);
     min-width: 300px;
     font-size: 1rem;
 }
@@ -33,4 +33,4 @@ input:focus {
     margin-bottom: 0;
     display: flex;
     align-items: center;
-} /* .weather img{ transform: scale(2); } */
+} 
