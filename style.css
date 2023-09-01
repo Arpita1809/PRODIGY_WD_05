@@ -5,7 +5,7 @@
 body {
     margin: 0;
     font-family: "Poppins", sans-serif;
-    background-color: rgb(152, 229, 162);
+    background-color: rgb(169, 215, 244);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,9 +16,9 @@ input {
     padding: 1rem;
     border-radius: 25px;
     border: none;
-    background-color: #f6af86;
+    background-color: #f889c4;
     font-family: inherit;
-    box-shadow: 0 4px 10px rgba(18, 16, 16, 0.2);
+    box-shadow: 0 4px 10px rgba(10, 0, 0, 0.2);
     min-width: 300px;
     font-size: 1rem;
 }
